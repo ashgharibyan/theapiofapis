@@ -1,0 +1,162 @@
+@charset "UTF-8";
+/* body{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	font-family: 'Jost', sans-serif;
+	background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+} */
+.main {
+	width: 500px;
+	height: 650px;
+	overflow: hidden;
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	border-radius: 10px;
+	box-shadow: 5px 20px 50px #000;
+}
+
+.d-flex {
+	gap: 50px;
+}
+
+@keyframes gradient {
+	0% 
+{
+	background-position: 0% 50%;
+} 50%
+{ 
+	background-position:100% 50%;
+} 
+100% 
+	{
+	background-position : 0% 50%;
+	}
+}
+#chk {
+	display: none;
+}
+
+.signup {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+label {
+	color: #fff;
+	font-size: 2.3em;
+	justify-content: center;
+	display: flex;
+	margin: 30px;
+	font-weight: bold;
+	cursor: pointer;
+	transition: .5s ease-in-out;
+	padding-top: 30px;
+}
+
+.formInp {
+	width: 60%;
+	height: 40px;
+	background: #e0dede;
+	justify-content: center;
+	display: flex;
+	margin: 0px auto;
+	padding: 10px;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+}
+
+.err {
+	vertical-align:top;
+	text-align:center;
+	height:auto;
+	width: 500px;
+	color: #cc0033;
+	display: inline-block;
+	font-size: 12px;
+	line-height: 15px;
+	margin: 5px 1px;
+	-webkit-text-stroke: 1px white;
+	
+	
+}
+
+.logErr {
+	vertical-align:top;
+	text-align:center;
+	height:auto;
+	width: 500px;
+	color: red;
+	display: inline-block;
+	font-size: 12px;
+	line-height: 15px;
+	margin: 5px 1px;	
+	
+}
+
+.fix-stroke {
+   paint-order: stroke fill;
+}
+button {
+	width: 60%;
+	height: 50px;
+	margin: 0px auto;
+	justify-content: center;
+	display: block;
+	background: white;
+	color: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size : 400% 400%; animation : gradient 15s ease infinite;
+	font-size: 1em;
+	font-weight: bold;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	transition: .2s ease-in;
+	cursor: pointer;
+	animation: gradient 15s ease infinite;
+	background-size: 400% 400%;
+}
+
+button:hover {
+	color: white;
+	background: #4478e3;
+}
+
+.login {
+	height: 460px;
+	background: #eee;
+	border-radius: 60%/10%;
+	transform: translateY(-180px);
+	transition: .8s ease-in-out;
+	margin-top:47px;
+}
+
+.login label {
+	margin-top:20px;
+	color: #4478e3;
+	transform: scale(.6);
+}
+
+.nomarg {
+	margin: 0px;
+	padding: 0px;
+	line-height: 70px;
+}
+
+#chk:checked ~ .login {
+	transform: translateY(-450px);
+}
+
+#chk:checked ~ .login label {
+	transform: scale(1);
+}
+
+#chk:checked ~ .signup label {
+	transform: scale(.6);
+}
