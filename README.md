@@ -27,6 +27,8 @@ Link to video: https://www.youtube.com/embed/MFgXnbdvR-E
 ## OPTION TO CREATE AN API
 <img width="424" alt="Screenshot 2023-03-31 at 11 06 35 AM" src="https://user-images.githubusercontent.com/119915091/229196818-269ace54-a00a-456a-bd91-9f08a60cf4fb.png">
 
+## LOADER PAGE WHILE THE API GETS CREATED. DISPLAYS A RANDOM JOKE FROM AN EXTERNAL API
+<img width="1182" alt="Screenshot 2023-03-31 at 11 13 44 AM" src="https://user-images.githubusercontent.com/119915091/229198132-995f8349-b28f-47f8-b618-46b2bf1d22e7.png">
 
 
 ## LIST TO SHOW ALL THE APIS CREATED BY THE USER
