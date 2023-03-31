@@ -32,7 +32,11 @@ Link to video: https://www.youtube.com/embed/MFgXnbdvR-E
 ## LIST TO SHOW ALL THE APIS CREATED BY THE USER
 <img width="600" alt="Screenshot 2023-03-31 at 11 06 16 AM" src="https://user-images.githubusercontent.com/119915091/229196699-4dff9de9-2323-44f0-a870-32601b40971f.png">
 
+## CREATE A DOG(MODEL) PAGE
+<img width="543" alt="Screenshot 2023-03-31 at 11 12 40 AM" src="https://user-images.githubusercontent.com/119915091/229197904-51f803ab-a072-48ba-ae64-1bee99a9993b.png">
 
+## LIST TO SHOW ALL THE DOGS CREATED BY THE USER
+<img width="1171" alt="Screenshot 2023-03-31 at 11 11 38 AM" src="https://user-images.githubusercontent.com/119915091/229197745-f8dd35b2-665e-4ab1-9a14-fae7f801c377.png">
 
-
-
+## API LINK FOR ALL DOGS
+<img width="469" alt="Screenshot 2023-03-31 at 11 12 07 AM" src="https://user-images.githubusercontent.com/119915091/229197812-72b6543f-9593-4751-8f41-88908506a6ab.png">
