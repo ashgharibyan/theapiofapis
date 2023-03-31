@@ -13,19 +13,26 @@ https://user-images.githubusercontent.com/119915091/229196329-f920abc8-18b2-4d9b
 
 Link to video: https://www.youtube.com/embed/MFgXnbdvR-E
 
+## MAIN API LINK 
+<img width="600" alt="Screenshot 2023-03-31 at 11 05 40 AM" src="https://user-images.githubusercontent.com/119915091/229196590-457a2c2c-eb43-4909-bea0-42f60bbf2b0c.png">
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MFgXnbdvR-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## WHAT IS DISPLAYED BY MAIN API LINK
+<img width="567" alt="Screenshot 2023-03-31 at 11 09 56 AM" src="https://user-images.githubusercontent.com/119915091/229197437-c6b606e3-b120-4ec2-8151-066928b8fa3d.png">
 
-<img width="848" alt="Screenshot 2023-03-31 at 11 05 40 AM" src="https://user-images.githubusercontent.com/119915091/229196590-457a2c2c-eb43-4909-bea0-42f60bbf2b0c.png">
 
-<img width="1156" alt="Screenshot 2023-03-31 at 11 06 16 AM" src="https://user-images.githubusercontent.com/119915091/229196699-4dff9de9-2323-44f0-a870-32601b40971f.png">
+## REGISTRATION AND LOGIN PAGE
+<img width="600" alt="Screenshot 2023-03-31 at 11 05 23 AM" src="https://user-images.githubusercontent.com/119915091/229196537-1a1032e7-2ac0-42ef-b12b-ac075861b73c.png">
 
 ## OPTION TO CREATE AN API
 <img width="424" alt="Screenshot 2023-03-31 at 11 06 35 AM" src="https://user-images.githubusercontent.com/119915091/229196818-269ace54-a00a-456a-bd91-9f08a60cf4fb.png">
 
-## REGISTRATION AND LOGIN PAGE
-<img width="1196" alt="Screenshot 2023-03-31 at 11 05 23 AM" src="https://user-images.githubusercontent.com/119915091/229196537-1a1032e7-2ac0-42ef-b12b-ac075861b73c.png">
+
+
+## LIST TO SHOW ALL THE APIS CREATED BY THE USER
+<img width="600" alt="Screenshot 2023-03-31 at 11 06 16 AM" src="https://user-images.githubusercontent.com/119915091/229196699-4dff9de9-2323-44f0-a870-32601b40971f.png">
+
+
 
 
 
